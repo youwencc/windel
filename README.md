@@ -98,22 +98,7 @@
 
 > 删除操作不可恢复，请谨慎确认。所有注册表与快捷方式清理前均自动备份。
 
-## 开发与构建
 
-
-
-```
-\# 需要 .NET 8 SDK（Windows）
-
-dotnet build ForceDelete.sln -c Release
-
-\# 单文件自包含发布（免运行库，约 69 MB）
-
-dotnet publish ForceDelete.sln -c Release -r win-x64 --self-contained true -p:PublishSingleFile=true
-
-\# 单文件框架依赖发布（约 1.1 MB）
-
-dotnet publish ForceDelete.sln -c Release -r win-x64 --self-contained false -p:PublishSingleFile=true
 ```
 
 ## 开源协议
