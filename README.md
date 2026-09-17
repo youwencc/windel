@@ -14,7 +14,7 @@
 
 
 
-![强制删除](docs/screenshots/shot-force.png)
+![强制删除]([https://github.com/youwencc/windel/blob/main/assets/01.png)]
 
 **右键菜单清理** —— 扫描全部右键菜单项，按第三方 / 系统 / 本软件分类清理，清理前自动备份可恢复：
 
