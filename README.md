@@ -13,21 +13,19 @@
 **强制删除** —— 文件 / 文件夹拖入即删，自动强制获取权限、解除占用：
 
 
-
-![强制删除]([https://github.com/youwencc/windel/blob/main/assets/01.png)]
+https://github.com/youwencc/windel/blob/main/assets/01.png
 
 **右键菜单清理** —— 扫描全部右键菜单项，按第三方 / 系统 / 本软件分类清理，清理前自动备份可恢复：
 
 
 
-![右键菜单清理](docs/screenshots/shot-context.png)
+https://github.com/youwencc/windel/blob/main/assets/02.png
 
 **软件卸载** —— 扫描已安装软件，常规卸载 / 强制卸载 / 注册表残留清理：
 
 
 
-![软件卸载](docs/screenshots/shot-uninstall.png)
-
+https://github.com/youwencc/windel/blob/main/assets/03.png
 
 
 ***
