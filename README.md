@@ -81,7 +81,7 @@
 
 
 * 前往 [GitHub Releases](https://github.com/youwencc/windel/releases) 下载最新 `Windel.exe`（约 1.1 MB）
-
+* 如果网络不好可以去[夸克网盘下载] (https://pan.quark.cn/s/cfb1686fb8e7?pwd=gPNY#/list/share)
 * 单文件绿色软件：**免安装**，下载后双击即可运行
 
 * 如提示缺少 .NET 环境，按弹窗引导一键下载安装 .NET 8 桌面运行时（x64）即可
