@@ -11,21 +11,17 @@
 ## 截图预览
 
 **强制删除** —— 文件 / 文件夹拖入即删，自动强制获取权限、解除占用：
-
-
-https://github.com/youwencc/windel/blob/main/assets/01.png
+<img width="1380" height="1140" alt="01" src="https://github.com/user-attachments/assets/30e5e6d0-1603-48fe-9849-438ba359b147" />
 
 **右键菜单清理** —— 扫描全部右键菜单项，按第三方 / 系统 / 本软件分类清理，清理前自动备份可恢复：
+<img width="1380" height="1140" alt="02" src="https://github.com/user-attachments/assets/75a0a2e4-33d3-44c9-83e9-4e89ecc02c3c" />
 
-
-
-https://github.com/youwencc/windel/blob/main/assets/02.png
 
 **软件卸载** —— 扫描已安装软件，常规卸载 / 强制卸载 / 注册表残留清理：
 
+<img width="1380" height="1140" alt="03" src="https://github.com/user-attachments/assets/fc6e9f78-1b73-48af-b5ff-2f9848d87a59" />
 
 
-https://github.com/youwencc/windel/blob/main/assets/03.png
 
 
 ***
